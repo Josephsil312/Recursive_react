@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.yellowopen {
+  color: #fd9c0a;
+  padding: 0px 4px 0px 4px;
+}
+.ul {
+  list-style-type: none;
+}
+.yellowclose {
+  color: #fd9c0a;
+}
